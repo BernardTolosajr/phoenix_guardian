@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AuthSample
 
 To start your Phoenix server:
@@ -21,4 +20,3 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
 =======
 # phoenix_guardian
 sample phoenix guardian authentication and authorization
->>>>>>> origin/master
